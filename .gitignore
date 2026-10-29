@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Local databases (recreated on launch)
+*.db-journal
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

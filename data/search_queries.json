@@ -1,0 +1,86 @@
+[
+  {
+    "query": "money transfer",
+    "expected": [
+      "N006"
+    ],
+    "no_overlap": true
+  },
+  {
+    "query": "grocery shopping",
+    "expected": [
+      "N012"
+    ],
+    "no_overlap": true
+  },
+  {
+    "query": "lodging reservation",
+    "expected": [
+      "N007"
+    ],
+    "no_overlap": true
+  },
+  {
+    "query": "broken audio gear",
+    "expected": [
+      "N008"
+    ],
+    "no_overlap": true
+  },
+  {
+    "query": "when is my flight?",
+    "expected": [
+      "N003"
+    ],
+    "no_overlap": false
+  },
+  {
+    "query": "electricity bill payment",
+    "expected": [
+      "N002"
+    ],
+    "no_overlap": false
+  },
+  {
+    "query": "upcoming Python exam",
+    "expected": [
+      "N001"
+    ],
+    "no_overlap": false
+  },
+  {
+    "query": "railway journey",
+    "expected": [
+      "N011"
+    ],
+    "no_overlap": false
+  },
+  {
+    "query": "laptop stand purchase",
+    "expected": [
+      "N004"
+    ],
+    "no_overlap": false
+  },
+  {
+    "query": "chemistry report",
+    "expected": [
+      "N009"
+    ],
+    "no_overlap": false
+  },
+  {
+    "query": "house rent deadline",
+    "expected": [
+      "N010"
+    ],
+    "no_overlap": false
+  },
+  {
+    "query": "statistics assignment",
+    "expected": [
+      "N005"
+    ],
+    "no_overlap": false
+  }
+]
