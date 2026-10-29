@@ -75,7 +75,7 @@ Python 3.10+ is recommended. Clone the repository and install dependencies:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/smart-notes-assistant.git
+git clone https://github.com/pritt18/smart-notes-assistant.git
 cd smart-notes-assistant
 
 # Create and activate virtual environment
