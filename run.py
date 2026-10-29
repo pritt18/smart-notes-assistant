@@ -11,8 +11,8 @@ if hasattr(sys.stdout, 'reconfigure'):
 import argparse
 import uvicorn
 from pathlib import Path
-from src.config import MODEL_PATH
-from src.model import train_model, TRAIN_CSV
+from src.config import MODEL_PATH, TRAIN_CSV
+from src.model import train_model
 
 
 def ensure_model_exists():
